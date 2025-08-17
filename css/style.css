@@ -576,6 +576,17 @@ textarea {
     color: #777;
 }
 
+.error-message {
+    color: #ff4444;
+    font-size: 0.8em;
+    margin-top: 5px;
+    display: block;
+}
+
+.invalid {
+    border-color: #ff4444 !important;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .hamburger {
